@@ -1,0 +1,14 @@
+.imageClass{
+    
+    width:180px;
+    height:180px;
+}
+.setup{
+    margin-left:100px;
+}
+
+.vertical-align{
+    display:flex;
+    align-items:center;
+    
+}
